@@ -27,3 +27,5 @@ n/a
 ## GitHub
 bronsonsoda
 bperez@gmail.com
+## Video
+https://drive.google.com/file/d/1FUH8IaRuehg0o7i8DGFMqkaooNwtbf9b/view
